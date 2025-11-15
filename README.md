@@ -16,9 +16,9 @@ para a verificação da autenticidade e permite a geração e exportação de re
 - Open SSL para Protocolo HTTPs
 
 ## Integrantes da Equipe
-Aruni van Amstel  
-Giovani Trierweiler  
-Lucas Souza de Oliveira  
+Aruni van Amstel - Desenvolvedor Backend e QA Tester
+Giovani Trierweiler  - Desenvolvedor Frontend e responsável pela documentação
+Lucas Souza de Oliveira  - Desenvolvedor Backend e "Techlead" do desenvolvimento no Backend
 
 ### Esse é um fork do repositório original, que está localizado no endereço: https://github.com/giovanitrier/sitema-controle-presenca/  
 Ficou decidido pela nossa equipe que seria feito um fork do repositório original assim que terminássemos todo o desenvolvimento dos requisitos para a entrega e defesa do 
